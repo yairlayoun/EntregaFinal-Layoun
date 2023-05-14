@@ -386,6 +386,8 @@ footer a {
   padding: 0 30px;
   /*definimos el nombre en el grid */
   grid-area: actions;
+  position: fixed;
+  right: 0;
 }
 
 .tienda .filters {
